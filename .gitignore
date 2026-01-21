@@ -1,0 +1,17 @@
+# Godot 4
+.godot/
+# Godot 3 legacy
+.import/
+*.import
+
+# Exports
+export_presets.cfg
+*.pck
+*.exe
+*.app
+*.dmg
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
